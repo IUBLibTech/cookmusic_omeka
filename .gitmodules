@@ -1,0 +1,3 @@
+[submodule "plugins/AvalonVideo"]
+	path = plugins/AvalonVideo
+	url = git@github.com:IUBLibTech/AvalonVideoOmekaPlugin.git
